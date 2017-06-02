@@ -1,7 +1,7 @@
 {
   "name": "prompt-password-strength",
   "description": "Custom mask function for prompt-password that adds a 'strength progress meter' that changes color as the password strength increases. Uses zxcvbn, the popular password strength estimation tool brought to you by dropbox.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/enquirer/prompt-password-strength",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "enquirer/prompt-password-strength",
